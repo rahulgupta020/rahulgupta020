@@ -1,16 +1,16 @@
 # Welcome to Rahul Gupta profile! <a href="https://about.me/shubham_srivastava/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://rahulgupta020.netlify.app/" target="_blank"><img align="center" src="https://png.pngtree.com/png-vector/20190228/ourmid/pngtree-vector-portfolio-icon-png-image_711172.jpg" alt="shubham" height="40" width="40" /></a>
+<a href="https://rahulgupta020.netlify.app/" target="_blank"><img align="center" src="https://png.pngtree.com/png-vector/20190228/ourmid/pngtree-vector-portfolio-icon-png-image_711172.jpg" alt="shubham" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rahulgupta020/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/shubhamda111_?t=EWaSzNeIXDViHopwOQtQ8g&s=09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham" height="30" width="40" /></a>
+<a href="https://twitter.com/rahulgupta020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham" height="30" width="40" /></a>
 &nbsp;
-<a href="https://instagram.com/shubham_shrivastav33?igshid=ZDdkNTZiNTM=" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rahul__gupta1998/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham" height="30" width="40" /></a>
 &nbsp;
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Shubham-Srivastava)
+## Glad to see you here! &nbsp; 
 
 I am a full-stack software engineer.
 
@@ -18,33 +18,31 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/srivastavshubham/srivastavshubham/blob/master/coding.gif?raw=true" width="408" height="318" />
-
 
 ### Talking about Personal Stuffs:
 
-- 👨‍🎓 I'm a **Senior Software Engineer **
-- 🔭 I’m currently working on MERN technology
+- 👨‍🎓 I'm a ** Software Engineer **
+- 🔭 I’m currently working on MERN & Python
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-  - Blockchain mechanism.
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+  - Data Structure and Algorithm.
+  - Tools and technologies from Javascript and Python
 - 👯 Join my community if you're a tech enthusiast
-- 📬 How to reach me: [shubhamda111@gmail.com](mailto:shubhamda111@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1HSSHxGNNdeFjsPovgxDv-_3BYptpch6y/view?usp=drivesdk).
+- 📬 How to reach me: [coolrahulb1995@gmail.com](mailto:coolrahulb1995@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1qPWViGScFAzKbmnmL0-dwVaKFFeWA7hL/view?usp=sharing).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/srivastavshubham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shubham Srivastava" height="30" width="40" /></a>
+<a href="https://github.com/rahulgupta020" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shubham Srivastava" height="30" width="40" /></a>
 &nbsp;
-<a href="https://srivastavshubham.github.io/me/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shubham" height="30" width="40" /></a>
+<a href="https://rahulgupta020.github.io/me/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shubham" height="30" width="40" /></a>
 &nbsp;
 
 ---
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming language
+### 👨‍💻 Programming languages
 
 <p>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
