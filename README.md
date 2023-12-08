@@ -1,4 +1,4 @@
-# Welcome to Rahul Gupta profile! <a href="https://about.me/shubham_srivastava/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to Rahul Gupta profile! <a href="https://rahulgupta020.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://rahulgupta020.netlify.app/" target="_blank"><img align="center" src="https://i.postimg.cc/8cXyz0m7/portfolio.png" alt="portfolio" height="25" width="28" /></a>
 &nbsp;
